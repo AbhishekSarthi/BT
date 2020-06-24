@@ -1173,7 +1173,9 @@ h1,h2,h3,h4,h5,h6{
     @media only screen and (min-width:992px) and (max-width:1199px){.testimonial-content{margin-left:40px}}
     .testimonial-content .slick-arrow{position:absolute;bottom:-65px;left:0;font-size:24px;cursor:pointer}
     .testimonial-content .slick-arrow.next{left:40px}
-/* */
+/*========
+Testimonials
+============*/
 .contact-area{position:relative}p.form-message.success,p.form-message.error{font-size:16px;color:#293651;background:#f9fbfe;
   padding:10px 15px;margin-top:30px;margin-left:15px}p.form-message.success.form-message.error,
   p.form-message.error.form-message.error{color:red}.contact-image{position:absolute;top:0;right:0;width:45%;height:100%}
