@@ -1173,6 +1173,56 @@ h1,h2,h3,h4,h5,h6{
     @media only screen and (min-width:992px) and (max-width:1199px){.testimonial-content{margin-left:40px}}
     .testimonial-content .slick-arrow{position:absolute;bottom:-65px;left:0;font-size:24px;cursor:pointer}
     .testimonial-content .slick-arrow.next{left:40px}
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+  .testimonial-content .slick-arrow{
+    bottom:-55px;
+  }
+
+  .testimonial-content .slick-arrow.next{
+    left:40px
+  }
+}
+
+@media only screen and (min-width: 1200px){
+  .testimonial-content .slick-arrow{
+    bottom:-60px;
+  }
+
+  .testimonial-content .slick-arrow.next{
+    left:40px
+  }
+}
+
+@media(max-width:575px){
+   .testimonial-content .slick-arrow{
+    bottom:-40px;
+  }
+
+  .testimonial-content .slick-arrow.next{
+    left:40px
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+  .testimonial-content .slick-arrow{
+    bottom:-41px;
+  }
+
+  .testimonial-content .slick-arrow.next{
+    left:40px
+  }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px){
+  .testimonial-content .slick-arrow{
+    bottom:-42px;
+  }
+
+  .testimonial-content .slick-arrow.next{
+    left:40px
+  }
+}
 /*========
 Testimonials
 ============*/
