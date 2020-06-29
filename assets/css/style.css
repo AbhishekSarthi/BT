@@ -1556,9 +1556,9 @@ BLOG
   height: 40px;
   line-height: 40px;
   border-radius: 5px;
-  background: -webkit-linear-gradient(left, #FF7F50 0%, #FF7F50 100%);
-  background: -o-linear-gradient(left, #FF7F50 0%, #FF7F50 100%);
-  background: linear-gradient(to right, #FF7F50 0%, #FF7F50 100%);
+  background: -webkit-linear-gradient(left, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
+    background: -o-linear-gradient(left, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
+    background: linear-gradient(to right, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
