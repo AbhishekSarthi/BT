@@ -1546,6 +1546,24 @@ BLOG
       color: #FE8464; }
 
 /*===== BACK TO TOP =====*/
+.lni{
+  display: inline-block;
+  font:normal normal normal lem/1 'LineIcons';
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: lem;
+  line-height: 1;
+  font-family: LineIcons;
+  speak: none;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+}
+
 .back-to-top {
   color: #fff;
   position: fixed;
