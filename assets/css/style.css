@@ -1556,9 +1556,9 @@ BLOG
   height: 40px;
   line-height: 40px;
   border-radius: 5px;
-  background: -webkit-linear-gradient(left, #361cc1 0%, #2e82ef 100%);
-  background: -o-linear-gradient(left, #361cc1 0%, #2e82ef 100%);
-  background: linear-gradient(to right, #361cc1 0%, #2e82ef 100%);
+  background: -webkit-linear-gradient(left, #FF7F50 0%, #FF7F50 100%);
+  background: -o-linear-gradient(left, #FF7F50 0%, #FF7F50 100%);
+  background: linear-gradient(to right, #FF7F50 0%, #FF7F50 100%);
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -1588,27 +1588,4 @@ BLOG
   -webkit-font-smoothing: antialiased;
 }
 
-.back-to-top {
-  color: #fff;
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
-  width: 45px;
-  height: 45px;
-  border-radius: 5px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
-  border-bottom-left-radius: 5px;
- /* background-color: #f45500;*/
- background: linear-gradient(to right, #FF7F50 0%, #FF7F50 100%);
 
-  text-align: center;
-  z-index: 99;
-  transition: all .3 ease-out 0s;
-  transition-property: all;
-  transition-duration: 0.3s;
-  transition-timing-function: ease-out;
-  transition-delay: 0s;
-  display: none;
-}
